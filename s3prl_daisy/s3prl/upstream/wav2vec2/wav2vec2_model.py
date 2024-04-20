@@ -3104,7 +3104,7 @@ class TransformerEncoder(nn.Module):
 
                 layer_results.append((x, z, lr))
 
-            if mode == 'eval' and (i+1 == max(ext_range)):
+            if mode == 'eval' and len(ext_range) and (i+1 == max(ext_range)):
                 break
             
         if r is not None:
