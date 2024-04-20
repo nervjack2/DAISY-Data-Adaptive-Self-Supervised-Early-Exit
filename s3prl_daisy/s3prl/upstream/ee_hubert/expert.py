@@ -17,7 +17,6 @@ from torch.nn.utils.rnn import pad_sequence
 
 from ..interfaces import UpstreamBase
 from .convert import load_converted_model
-from .cal_wada_snr import cal_wada_snr
 
 SAMPLE_RATE = 16000
 EXAMPLE_SEC = 5
