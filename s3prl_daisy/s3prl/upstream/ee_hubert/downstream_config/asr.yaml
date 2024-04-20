@@ -1,3 +1,3 @@
-ext_way: min-max
+ext_way: avg
 inf_threshold: 0.2
 u_threshold: 0.5145
