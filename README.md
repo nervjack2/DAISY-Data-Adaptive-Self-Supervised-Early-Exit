@@ -1,5 +1,5 @@
 # DAISY: Data Adaptive Self Supervised Early Exit on Speech Representation Models
-This is official implementation of Interspeech 2024 paper: DAISY: Data Adaptive Self Supervised Early Exit on Speech Representation Models
+This is official implementation of Interspeech 2024 paper: [DAISY: Data Adaptive Self Supervised Early Exit on Speech Representation Models](https://arxiv.org/abs/2406.05464)
 
 # Preparation 
 1. Please install the required package of [s3prl](https://github.com/s3prl/s3prl)
